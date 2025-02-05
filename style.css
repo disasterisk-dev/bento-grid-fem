@@ -352,6 +352,8 @@ main {
   background-color: var(--black);
   color: var(--white);
   padding: 1rem;
+  font-family: "DM Sans";
+  font-weight: 600;
 }
 .attribution a {
   color: var(--purple-500);
